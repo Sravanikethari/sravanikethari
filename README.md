@@ -1,5 +1,15 @@
 # 💫 About Me:
-I am a  graduate with a passion for AWS and DevOps. I am eager to apply my skills and knowledge to real-world projects and continuously learn and grow in the field. My key skills include:<br><br>AWS Services:  knowledge of EC2, S3, RDS, and Lambda.<br>Infrastructure as Code (IaC): Familiar with Terraform and AWS CloudFormation.<br>CI/CD Pipelines: Understanding of CI/CD concepts and tools like Jenkins and GitHub Actions.<br>Containerization: knowledge of Docker and Kubernetes.<br>Monitoring and Logging: Familiar with AWS CloudWatch and basic logging practices.<br>Automation and Scripting: Basic scripting skills in Python and Bash.<br>I am excited to collaborate on projects, contribute to open-source, and learn from experienced professionals in the industry.
+DevOps Engineer with hands-on experience building and deploying cloud-native applications using AWS, Kubernetes, and CI/CD pipelines through real-world projects.
+
+Built an end-to-end CI/CD pipeline using GitOps principles, reducing deployment time from 45 minutes to under 5 minutes through full automation. Provisioned AWS infrastructure using Terraform (EKS, S3, DynamoDB) and implemented blue-green deployments using Argo CD with zero-downtime rollbacks.
+
+Integrated DevSecOps practices using SonarQube and Trivy to enforce security gates in pipelines. Designed monitoring and alerting systems using Prometheus, Grafana, and AWS CloudWatch with 10+ dashboards for system and application metrics.
+
+Core Skills: AWS (EKS, EC2, S3, IAM, CloudWatch) · Kubernetes · Docker · Terraform · Jenkins · GitHub Actions · Argo CD · Helm · Prometheus · Grafana · Linux · Git
+
+Background in Civil Engineering with strong problem-solving and operational thinking, now focused on building scalable and reliable infrastructure systems.
+
+Open to entry-level DevOps Engineer and Application Support roles.
 
 
 ## 🌐 Socials:
