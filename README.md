@@ -1,6 +1,6 @@
 # 👋 About Me
 
-DevOps Engineer Intern at VoiptroniX Labs, building production CI/CD pipelines, provisioning AWS infrastructure with Terraform, and deploying containerized services on Kubernetes.
+DevOps Engineer building production CI/CD pipelines, provisioning AWS infrastructure with Terraform, and deploying containerized services on Kubernetes.
 
 **What I've built:**
 - Automated Jenkins pipeline cutting release cycles from 40 min → under 5 min with zero manual steps
